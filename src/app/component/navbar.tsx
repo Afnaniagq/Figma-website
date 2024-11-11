@@ -1,7 +1,5 @@
 "use client"
-import Link from "next/link";
 import React, { useState } from "react";
-import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineSearch } from "react-icons/ai";
 import { LuHeart } from "react-icons/lu";
 import { LuShoppingBag } from "react-icons/lu";

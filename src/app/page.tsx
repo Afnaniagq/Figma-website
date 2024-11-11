@@ -2,7 +2,6 @@ import Image from "next/image";
 import { FaStar } from "react-icons/fa6";
 import { FaStarHalfAlt } from "react-icons/fa";
 import { FaRegStar } from "react-icons/fa6";
-import { IoIosArrowRoundForward } from "react-icons/io";
 
 export default function Home() {
   return (
